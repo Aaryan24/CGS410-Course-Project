@@ -1,0 +1,88 @@
+{
+  "languages": {
+    "en_ewt": {
+      "language": "English",
+      "treebank": "UD_English-EWT",
+      "run_name": "en_ewt_mbert_dependency_head_dev",
+      "report_dir": "mbert_dependency_head_english_dev",
+      "title": "mBERT Dependency-Head Head Analysis on UD English-EWT",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/en_ewt-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/en_ewt-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/en_ewt-ud-test.conllu"
+      }
+    },
+    "hi_hdtb": {
+      "language": "Hindi",
+      "treebank": "UD_Hindi-HDTB",
+      "run_name": "hi_hdtb_mbert_dependency_head_dev",
+      "report_dir": "mbert_dependency_head_hi_hdtb_dev",
+      "title": "mBERT Dependency-Head Head Analysis on UD Hindi-HDTB",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_Hindi-HDTB/r2.17/hi_hdtb-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_Hindi-HDTB/r2.17/hi_hdtb-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_Hindi-HDTB/r2.17/hi_hdtb-ud-test.conllu"
+      }
+    },
+    "ur_udtb": {
+      "language": "Urdu",
+      "treebank": "UD_Urdu-UDTB",
+      "run_name": "ur_udtb_mbert_dependency_head_dev",
+      "report_dir": "mbert_dependency_head_ur_udtb_dev",
+      "title": "mBERT Dependency-Head Head Analysis on UD Urdu-UDTB",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB/r2.17/ur_udtb-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB/r2.17/ur_udtb-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB/r2.17/ur_udtb-ud-test.conllu"
+      }
+    },
+    "ur_udtb_all1000": {
+      "language": "Urdu",
+      "treebank": "UD_Urdu-UDTB",
+      "run_name": "ur_udtb_mbert_dependency_head_all1000",
+      "report_dir": "mbert_dependency_head_ur_udtb_all1000",
+      "title": "mBERT Dependency-Head Head Analysis on UD Urdu-UDTB (1,000-Sentence Sample)",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB/r2.17/ur_udtb-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB/r2.17/ur_udtb-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB/r2.17/ur_udtb-ud-test.conllu"
+      }
+    },
+    "fi_tdt": {
+      "language": "Finnish",
+      "treebank": "UD_Finnish-TDT",
+      "run_name": "fi_tdt_mbert_dependency_head_dev",
+      "report_dir": "mbert_dependency_head_fi_tdt_dev",
+      "title": "mBERT Dependency-Head Head Analysis on UD Finnish-TDT",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_Finnish-TDT/r2.17/fi_tdt-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_Finnish-TDT/r2.17/fi_tdt-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_Finnish-TDT/r2.17/fi_tdt-ud-test.conllu"
+      }
+    },
+    "id_gsd": {
+      "language": "Indonesian",
+      "treebank": "UD_Indonesian-GSD",
+      "run_name": "id_gsd_mbert_dependency_head_dev",
+      "report_dir": "mbert_dependency_head_id_gsd_dev",
+      "title": "mBERT Dependency-Head Head Analysis on UD Indonesian-GSD",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_Indonesian-GSD/r2.17/id_gsd-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_Indonesian-GSD/r2.17/id_gsd-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_Indonesian-GSD/r2.17/id_gsd-ud-test.conllu"
+      }
+    },
+    "id_gsd_all1000": {
+      "language": "Indonesian",
+      "treebank": "UD_Indonesian-GSD",
+      "run_name": "id_gsd_mbert_dependency_head_all1000",
+      "report_dir": "mbert_dependency_head_id_gsd_all1000",
+      "title": "mBERT Dependency-Head Head Analysis on UD Indonesian-GSD (1,000-Sentence Sample)",
+      "ud_files": {
+        "train": "https://raw.githubusercontent.com/UniversalDependencies/UD_Indonesian-GSD/r2.17/id_gsd-ud-train.conllu",
+        "dev": "https://raw.githubusercontent.com/UniversalDependencies/UD_Indonesian-GSD/r2.17/id_gsd-ud-dev.conllu",
+        "test": "https://raw.githubusercontent.com/UniversalDependencies/UD_Indonesian-GSD/r2.17/id_gsd-ud-test.conllu"
+      }
+    }
+  }
+}
