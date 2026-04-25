@@ -23,6 +23,7 @@ Main entry points:
 - `gpt2_dependency_head_analysis.py`, `gpt2_phase2_sufficiency.py`, `gpt2_necessity_test.py`, and `gpt2_syntax_necessity.py`: GPT-2 dependency and prediction tests.
 - `compute_gpt2_causal_ceiling.py`: causal recoverability diagnostic for GPT-2.
 - `multilingual_language_config.json`: UD treebank URLs and run names for the multilingual mBERT dependency-head runs.
+- `study_graphs/`: graph assets from the final study, included so results and report figures can be reviewed directly from the repository.
 
 ## Reproduction Notes
 
